@@ -13,7 +13,7 @@
     "@webcomponents/custom-elements": "^1.2.4",
     "common-sk": "~3.1.0",
     "elements-sk": "~2.4.2",
-    "flatpickr": "^4.5.7",
+    "flatpickr": "^4.6.6",
     "google-charts": "^2.0.0",
     "javascript-natural-sort": "~0.7.1",
     "lit-html": "~1.0.0"
