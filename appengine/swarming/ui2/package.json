@@ -10,7 +10,7 @@
     "url": "https://chromium.googlesource.com/infra/luci/luci-py"
   },
   "dependencies": {
-    "@webcomponents/custom-elements": "^1.2.4",
+    "@webcomponents/custom-elements": "^1.4.3",
     "common-sk": "~3.1.0",
     "elements-sk": "~2.4.2",
     "flatpickr": "^4.5.7",
