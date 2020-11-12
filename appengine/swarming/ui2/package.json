@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@webcomponents/custom-elements": "^1.2.4",
-    "common-sk": "~3.1.0",
+    "common-sk": "~3.4.1",
     "elements-sk": "~2.4.2",
     "flatpickr": "^4.5.7",
     "google-charts": "^2.0.0",
